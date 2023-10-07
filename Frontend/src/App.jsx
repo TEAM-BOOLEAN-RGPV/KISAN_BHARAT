@@ -1,12 +1,13 @@
 
 import './App.css'
-import FpoCard from './Component/FpoCard/FpoCard'
+import SchemeCard from './Component/SchemeCard/SchemeCard'
+
 function App() {
 
 
   return (
     <>
-      <FpoCard/>
+     <SchemeCard/> 
     </>
   )
 }
